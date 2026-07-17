@@ -1,0 +1,8 @@
+{
+  "name": "Weather Intelligence",
+  "description": "A highly polished, responsive weather dashboard providing real-time conditions, 7-day forecasts, temperature trends, and personalized outdoor recommendations.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
